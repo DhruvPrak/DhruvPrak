@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Prakash</h1>
-<h3 align="center">Small steps today, big impact tomorrow ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+%7C+Data+Science+Enthusiast;+Passionate+Coder+and+Learner+%7C;+Web+Developer+%7C+C%2B%2B" alt="Typing SVG" />
+</p>
 
 - 🔭 I’m currently working on [Boltz](https://github.com/DhruvPrak/Boltz)
 
